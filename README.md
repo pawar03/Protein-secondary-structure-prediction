@@ -20,19 +20,19 @@ Secondary protein structure carries information about local structural arrangeme
 -PatternSet: It represents a set of patterns, i.e. training set (80%), the cross-validation data set (10%) and the test data set (10%) to be used during training.
 
 
-- Randomizer: It generally coordinates random number generation.
+-Randomizer: It generally coordinates random number generation.
 
 
-- Synapse: It represents a synapse between two neurons.
+-Synapse: It represents a synapse between two neurons.
 
 
-- Config: Creates a configuration file for a neural network with NNC extension.
+-Config: Creates a configuration file for a neural network with NNC extension.
 
 
 -IPconverter: Creates the file having data set with input and output values.
 
 
-- PredictStructure: Predicts the secondary structure.
+-PredictStructure: Predicts the secondary structure.
 
  
  
